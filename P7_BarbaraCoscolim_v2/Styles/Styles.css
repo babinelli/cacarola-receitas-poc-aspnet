@@ -1,0 +1,101 @@
+﻿html {
+    width: 100%; /*100% da largura da tela*/
+    height: 100%; /*100% da altura da tela*/
+    margin: 0; /*sem margem*/
+}
+
+body {
+    width: 100%; /*100% da largura da tela*/
+    height: 100%; /*100% da altura da tela*/
+    margin: 0; /*sem margem*/
+    background-color: #cce7e8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    width: 100%; /*100% da largura da tela*/
+}
+
+header {
+    width: 100%; /*100% da largura da tela*/
+    height: 25%; /*25% da altura da tela*/
+    background-color: #5dbcd2;
+}
+
+#logotipo {
+    position: relative; /*posicionado relativamente à sua posição normal*/
+    left: 44%;
+    top: 1.8px;
+}
+
+.pTitle {
+    width: 98%;
+    position: relative;
+    left: 2%;
+}
+
+.level1 {
+    position: relative; /*posicionado relativamente à sua posição normal*/
+    left: 10%;
+    color: #e07b39;
+}
+
+.level2 {
+    position: relative; /*posicionado relativamente à sua posição normal*/
+    left: 20%;
+    color: #054c69;
+}
+
+.DivContent {
+    width: 100%; /*100% da largura da tela*/
+}
+
+.home-img {
+    width: 100%;
+    object-fit: cover; /*Corta a imagem no tamanho definido ao invés de distorcer*/
+    height: 300px;
+}
+
+.bottomleft {
+    position: absolute;
+    top: 475px;
+    left: 2%;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px black;
+}
+
+#pHomeContent, .label {
+    width: 96%;
+    position: relative; /*posicionado relativamente à viewport, de forma fixa*/
+    left: 2%;
+    right: 2%;
+}
+
+table {
+    position: relative;
+    left: 2%;
+}
+
+#CalendarDataRegisto {
+    background-color: white;
+}
+
+
+#GridViewReceitas {
+    width: 96%;
+    background-color: white;
+}
+
+.footer {
+    width: 98%;
+    position: relative; /*posicionado relativamente à viewport, de forma fixa*/
+    bottom: 0;
+    left: 2%;
+}
+
+
+
+
+

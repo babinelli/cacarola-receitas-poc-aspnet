@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+	<siteMapNode url="~/Pages/Home.aspx" title="Caçarola Receitas"  description="Home page">
+
+		<siteMapNode url="~/Pages/InserirReceita.aspx" title="Inserir receita"  description="Inserir receita"></siteMapNode>
+
+		<siteMapNode url="~/Pages/AtualizarReceita.aspx" title="Atualizar receita"  description="Atualizar receita"></siteMapNode>
+
+		<siteMapNode url="~/Pages/DeletarReceita.aspx" title="Deletar receita"  description="Deletar receita"></siteMapNode>
+
+		<siteMapNode url="~/Pages/ListarReceitas.aspx" title="Listar Receitas"  description="Listar receitas"></siteMapNode>
+
+	</siteMapNode>
+</siteMap>
